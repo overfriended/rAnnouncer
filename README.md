@@ -1,6 +1,8 @@
 # rAnnouncer
 My first decently sized project for FiveM. rAnnouncer is an announcement system which allows you to send announcements and/or updates to your FiveM chat every (by default, can be changed) 5 minutes.
 
+Messages (for now) have to be added through the config.lua
+
 ## Convars
 
 Color convars are 1/3 of an entire RGB set.
