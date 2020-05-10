@@ -3,6 +3,8 @@ My first decently sized project for FiveM. rAnnouncer is an announcement system 
 
 Messages (for now) have to be added through the config.lua
 
+(psssst: rAnnouncer stands for RocketAnnouncer)
+
 ## Convars
 
 Color convars are 1/3 of an entire RGB set.
